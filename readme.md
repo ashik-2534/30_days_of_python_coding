@@ -8,7 +8,7 @@ Welcome to the 30-Day Python Coding Challenge! This repository contains code sni
 
 ### Day 1-5: Fundamentals
 
-* [Day 1: Introduction](#day-1-Basic-Operations-and-Data-Types)
+* [Day 1: Basic Operations and Data Types](#day-1-Basic-Operations-and-Data-Types)
 * [Day 2: Variables, Built-in Functions](#day-2-variables-built-in-functions)
 * [Day 3: Operators](#day-3-operators)
 * [Day 4: Strings](#day-4-strings)
@@ -81,6 +81,91 @@ This file (`Helloworld.py`) covers basic arithmetic operations and data types in
 ## Running the Code
 
 To run this code, simply execute the `Helloworld.py` file using Python (e.g., `python Helloworld.py`).
+
+
+## Day 2: Variables, Builtin Functions
+--------------------------------------
+[click to open folder](./Day_2/)
+
+### Variables
+
+This file demonstrates the use of variables in Python, including:
+
+* Valid names for declaring variables
+* Assigning values to variables
+* Multiple assignment
+
+### Built-in Functions
+
+This file uses the following built-in Python functions:
+
+* `type()`: to check the data type of a variable
+* `len()`: to get the length of a string
+
+### Arithmetic Operations
+
+This file demonstrates various arithmetic operations using variables, including:
+
+* Addition: `num_one + num_two`
+* Subtraction: `num_one - num_two`
+* Multiplication: `num_one * num_two`
+* Division: `num_one / num_two`
+* Modulus/Remainder: `num_one % num_two`
+* Exponentiation: `num_one ** num_two`
+* Floor Division: `num_one // num_two`
+
+### User Input
+
+This file uses the `input()` function to get user input for various variables, including:
+
+* First name
+* Last name
+* Country
+* Age
+
+[click to open folder](./Day_2/)
+
+
+### Calculations
+
+This file performs calculations using variables, including:
+
+* Calculating the area of a circle given the radius
+* Calculating the circumference of a circle given the radius
+
+### Example Use Cases
+
+This file provides example use cases for the concepts demonstrated, including:
+
+* Printing the data type of a variable
+* Printing the length of a string
+* Performing arithmetic operations using variables
+* Getting user input for variables
+* Performing calculations using variables
+
+### Code Structure
+
+This file is structured into the following sections:
+
+* Variables
+* Built-in Functions
+* Arithmetic Operations
+* User Input
+* Calculations
+* Example Use Cases
+
+### Additional Examples
+
+This file also includes the following additional examples:
+
+* Declaring and using multiple variables
+* Performing arithmetic operations with user input
+* Calculating the area and circumference of a circle with user input
+
+## Running the Code
+
+To run this code, simply execute the `variables.py` file using Python (e.g., `python variables.py`).
+
 
 ## Contributions
 
