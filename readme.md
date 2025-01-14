@@ -8,7 +8,7 @@ Welcome to the 30-Day Python Coding Challenge! This repository contains code sni
 
 ### Day 1-5: Fundamentals
 
-* [Day 1: Introduction](#day-1-introduction)
+* [Day 1: Introduction](#day-1-Basic-Operations-and-Data-Types)
 * [Day 2: Variables, Built-in Functions](#day-2-variables-built-in-functions)
 * [Day 3: Operators](#day-3-operators)
 * [Day 4: Strings](#day-4-strings)
