@@ -9,7 +9,7 @@ Welcome to the 30-Day Python Coding Challenge! This repository contains code sni
 ### Day 1-5: Fundamentals
 
 * [Day 1: Basic Operations and Data Types](#day-1-Basic-Operations-and-Data-Types)
-* [Day 2: Variables, Built-in Functions](#day-2-variables-,-built-in-functions)
+* [Day 2: Variables, Built-in Functions](#day-2-variables-and-built-in-functions)
 * [Day 3: Operators](#day-3-operators)
 * [Day 4: Strings](#day-4-strings)
 * [Day 5: Lists](#day-5-lists)
@@ -83,7 +83,7 @@ This file (`Helloworld.py`) covers basic arithmetic operations and data types in
 To run this code, simply execute the `Helloworld.py` file using Python (e.g., `python Helloworld.py`).
 
 
-## Day 2: Variables, Builtin Functions
+## Day 2: Variables and Built in Functions
 --------------------------------------
 [click to open folder](./Day_2/)
 
