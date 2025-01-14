@@ -3,7 +3,7 @@
 
 This repository contains code snippets and examples from a 30-day Python coding.
 
-## Day 2: Basic Data Types and Operators
+## Day 2: Variables and Built in Function
 --------------------------------------
 
 ### Variables
