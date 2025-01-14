@@ -1,6 +1,6 @@
 # 30 days of python coding
 
-# Day 2 : Basic Data Types and Operators
+# Day 2 : Variables, Builtin Functions
 
 
 # Variables
