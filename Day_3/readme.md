@@ -1,3 +1,5 @@
+[<<Day 2](../Day_2/) | <b>Day 3</b> | [Day 4>>](../Day_4/)
+
 # 30 Days of Python Coding
 ==========================
 
@@ -163,3 +165,6 @@ To run this code, simply execute the `Operators.py` file using Python (e.g., `py
 ## Contributions
 
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
+
+
+[<<Day 2](../Day_2/) | <b>Day 3</b> | [Day 4>>](../Day_4/)
