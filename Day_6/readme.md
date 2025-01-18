@@ -188,3 +188,5 @@ To run this code, simply execute the 'Tuple.py' file using Python (e.g., python 
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
 
 ---
+
+[<<Day 5](../Day_5/) | <b>Day 6</b> | [Day 7>>](../Day_7)
