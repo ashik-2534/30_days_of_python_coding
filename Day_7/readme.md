@@ -1,3 +1,5 @@
+[<<Day 6](../Day_6/) | <b>Day 7</b> | [Day 8>>](../Day_8/)
+
 # 30 Days of Python Coding
 
 #### ======================================
@@ -186,10 +188,12 @@ print(A ^ B)  # Output: {1, 2, 5, 6}
 
 ## Running the Code
 
-To run this code, simply execute the 'List.py' file using Python (e.g., python List.py).
+To run this code, simply execute the 'Sets.py' file using Python (e.g., python Sets.py).
 
 ---
 
 ## Contributions
 
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
+
+[<<Day 6](../Day_6/) | <b>Day 7</b> | [Day 8>>](../Day_8/)

@@ -17,8 +17,8 @@ Welcome to the 30-Day Python Coding Challenge! This repository contains code sni
 ### Day 6-15: Data Structures and Control Flow
 
 * [Day 6: Tuples](./Day_6/)
-* [Day 7: Sets](#day-7-sets)
-* [Day 8: Dictionaries](#day-8-dictionaries)
+* [Day 7: Sets](./Day_7/)
+* [Day 8: Dictionaries](./Day_8/)
 * [Day 9: Conditionals](#day-9-conditionals)
 * [Day 10: Loops](#day-10-loops)
 * [Day 11: Functions](#day-11-functions)
@@ -723,8 +723,8 @@ To run this code, simply execute the 'List.py' file using Python (e.g., python L
 
 
 ## Day 6: Tuples
-### [click here to open the <b>Tuple.py</b> file](./Day_6/)
 
+### [click here to open the <b>Tuple.py</b> file](./Day_6/)
 
 Welcome to Day 6 of the **30 Days of Python Coding** series! Today, we'll be diving into **Tuples** in Python. Tuples are an essential data structure that allows you to store multiple values in a single variable. They are similar to lists, but with some key differences. By the end of today’s lesson, you'll have a strong understanding of how to work with tuples and how they can be applied in your code.
 
@@ -752,6 +752,7 @@ Welcome to Day 6 of the **30 Days of Python Coding** series! Today, we'll be div
 A **tuple** is a collection of objects in Python that is ordered and immutable. Unlike lists, tuples cannot be changed after they are created. This makes them an excellent choice for fixed data, which ensures that the values in a tuple cannot be altered accidentally.
 
 ### Properties of Tuples:
+
 - **Ordered**: The items in a tuple are indexed, meaning their order is maintained.
 - **Immutable**: Once a tuple is created, you cannot modify its content (no appending, removing, or changing values).
 - **Allows duplicates**: A tuple can have multiple instances of the same value.
@@ -759,10 +760,12 @@ A **tuple** is a collection of objects in Python that is ordered and immutable. 
 - **Can be nested**: Tuples can contain other tuples.
 
 ### Common Tuple Methods:
+
 - **count()**: Returns the number of occurrences of a specified value.
 - **index()**: Returns the index of the first occurrence of a specified value.
 
 Example:
+
 ```python
 my_tuple = (1, 2, 3, 4, 1, 2)
 print(my_tuple.count(2))  # Output: 2
@@ -776,28 +779,33 @@ print(my_tuple.index(3))  # Output: 2
 In Python, tuples are created by placing the items inside parentheses `()`, separated by commas. You can create a tuple with or without initial values.
 
 ### 1. Creating an empty tuple:
+
 ```python
 empty_tuple = ()
 print(empty_tuple)  # Output: ()
 ```
 
 ### 2. Creating a tuple with initial values:
+
 ```python
 my_tuple = (1, 2, 3)
 print(my_tuple)  # Output: (1, 2, 3)
 ```
 
 ### 3. Creating a tuple with different data types:
+
 ```python
 mixed_tuple = (1, "hello", 3.14, True)
 print(mixed_tuple)  # Output: (1, 'hello', 3.14, True)
 ```
 
 ### 4. Creating a tuple with one item:
+
 ```python
 single_item_tuple = (5,)
 print(single_item_tuple)  # Output: (5)
 ```
+
 **Note**: A tuple with a single item must include a trailing comma.
 
 ---
@@ -809,6 +817,7 @@ print(single_item_tuple)  # Output: (5)
 You can access elements of a tuple by indexing, just like you would with a list. Indexing starts at 0.
 
 Example:
+
 ```python
 my_tuple = ("apple", "banana", "cherry")
 print(my_tuple[1])  # Output: banana
@@ -819,6 +828,7 @@ print(my_tuple[1])  # Output: banana
 You can also slice a tuple to get a range of values. The syntax is `[start:end]`.
 
 Example:
+
 ```python
 my_tuple = ("apple", "banana", "cherry", "date", "elderberry")
 print(my_tuple[1:4])  # Output: ('banana', 'cherry', 'date')
@@ -829,6 +839,7 @@ print(my_tuple[1:4])  # Output: ('banana', 'cherry', 'date')
 While tuples are immutable, you can convert them into lists if you need to modify their contents. After changing the list, you can convert it back into a tuple.
 
 Example:
+
 ```python
 my_tuple = (1, 2, 3)
 my_list = list(my_tuple)
@@ -842,6 +853,7 @@ print(my_tuple)  # Output: (1, 2, 3, 4)
 You can check if a value exists in a tuple using the `in` keyword.
 
 Example:
+
 ```python
 my_tuple = (1, 2, 3, 4)
 print(3 in my_tuple)  # Output: True
@@ -853,6 +865,7 @@ print(5 in my_tuple)  # Output: False
 You can join two or more tuples using the `+` operator.
 
 Example:
+
 ```python
 tuple1 = (1, 2, 3)
 tuple2 = (4, 5, 6)
@@ -865,6 +878,7 @@ print(combined_tuple)  # Output: (1, 2, 3, 4, 5, 6)
 You can delete a tuple entirely using the `del` statement. However, since tuples are immutable, you cannot delete individual items from a tuple.
 
 Example:
+
 ```python
 my_tuple = (1, 2, 3)
 del my_tuple
@@ -906,6 +920,9 @@ To run this code, simply execute the 'Tuple.py' file using Python (e.g., python 
 ---
 
 ## Day 7: Sets
+
+### [click here to open the <b>Tuple.py</b> file](./Day_7/)
+
 
 Welcome to **Day 7** of the **30 Days of Python Coding**! Today, we dive into one of Python's most powerful and versatile data structures: **sets**.
 
@@ -1089,14 +1106,215 @@ print(A ^ B)  # Output: {1, 2, 5, 6}
 
 ## Running the Code
 
-To run this code, simply execute the 'List.py' file using Python (e.g., python List.py).
+To run this code, simply execute the 'Sets.py' file using Python (e.g., python Sets.py).
 
 ---
 
-## Contributions
+## Day 8: Dictionaries
 
-Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
+### [click here to open the <b>Tuple.py</b> file](./Day_8/)
 
+
+Welcome to **Day 8** of the **30 Days of Python Coding** challenge! This segment focuses on Python dictionaries—a powerful, flexible data structure that's essential for any Python programmer.
+
+---
+
+## Table of Contents
+
+1. [Introduction to Dictionaries](#introduction-to-dictionaries)
+2. [Creating Dictionaries](#creating-dictionaries)
+3. [Accessing Dictionary Items](#accessing-dictionary-items)
+4. [Modifying Dictionary Items](#modifying-dictionary-items)
+5. [Checking for Keys](#checking-for-keys)
+6. [Removing Items](#removing-items)
+7. [Additional Dictionary Operations](#additional-dictionary-operations)
+8. [Examples](#examples)
+9. [Exercises](#exercises)
+
+---
+
+## Introduction to Dictionaries
+
+Dictionaries in Python are collections of key-value pairs. Unlike lists or tuples, dictionaries are:
+
+- **Unordered**: Items have no fixed position.
+- **Mutable**: You can add, modify, or delete items.
+- **Indexed by keys**: Instead of numerical indices, dictionaries use keys to access values.
+
+### Syntax
+
+```python
+my_dict = {"key1": "value1", "key2": "value2"}
+```
+
+- **Keys** must be immutable types (e.g., strings, numbers, tuples).
+- **Values** can be of any data type.
+
+---
+
+## Creating Dictionaries
+
+### Using Curly Braces
+
+```python
+empty_dict = {}
+fruit_colors = {"apple": "red", "banana": "yellow"}
+```
+
+### Using the `dict()` Constructor
+
+```python
+person = dict(name="Alice", age=30, city="New York")
+```
+
+### From a List of Tuples
+
+```python
+pairs = [("a", 1), ("b", 2)]
+converted_dict = dict(pairs)
+```
+
+---
+
+## Accessing Dictionary Items
+
+### Using Keys
+
+```python
+fruit_colors = {"apple": "red", "banana": "yellow"}
+print(fruit_colors["apple"])  # Output: red
+```
+
+### Using `get()` Method
+
+```python
+print(fruit_colors.get("orange", "Not Found"))  # Output: Not Found
+```
+
+---
+
+## Modifying Dictionary Items
+
+### Adding New Items
+
+```python
+fruit_colors["orange"] = "orange"
+```
+
+### Updating Existing Items
+
+```python
+fruit_colors["banana"] = "green"
+```
+
+---
+
+## Checking for Keys
+
+### Using the `in` Keyword
+
+```python
+print("apple" in fruit_colors)  # Output: True
+```
+
+### Using `keys()` Method
+
+```python
+print("banana" in fruit_colors.keys())  # Output: True
+```
+
+---
+
+## Removing Items
+
+### Using `pop()`
+
+```python
+fruit_colors.pop("apple")
+```
+
+### Using `del`
+
+```python
+del fruit_colors["banana"]
+```
+
+### Using `clear()`
+
+```python
+fruit_colors.clear()
+```
+
+---
+
+## Additional Dictionary Operations
+
+### Looping Through a Dictionary
+
+```python
+for key, value in fruit_colors.items():
+    print(f"{key}: {value}")
+```
+
+### Dictionary Comprehension
+
+```python
+squared_numbers = {x: x**2 for x in range(5)}
+```
+
+### Converting to List of Tuples
+
+```python
+list_of_tuples = list(fruit_colors.items())
+```
+
+---
+
+## Examples
+
+### Example 1: Word Frequency Counter
+
+```python
+sentence = "hello world hello"
+word_count = {}
+for word in sentence.split():
+    word_count[word] = word_count.get(word, 0) + 1
+print(word_count)  # Output: {"hello": 2, "world": 1}
+```
+
+### Example 2: Nested Dictionary
+
+```python
+students = {
+    "Alice": {"math": 90, "science": 85},
+    "Bob": {"math": 70, "science": 80}
+}
+print(students["Alice"]["math"])  # Output: 90
+```
+
+---
+
+## Exercises
+
+### 1. Creating a Dictionary
+
+Create a dictionary that maps countries to their capitals. Add, modify, and remove some entries.
+
+### 2. Word Length Mapping
+
+Write a program that takes a list of words and creates a dictionary where the keys are the words and the values are their lengths.
+
+### 3. Dictionary to Tuples
+
+Convert a dictionary into a list of tuples and sort them by key or value.
+
+---
+
+## Running the Code
+
+To run this code, simply execute the 'Dictionaries.py' file using Python (e.g., python Dictionaries.py).
+
+---
 
 ## Contributions
 
