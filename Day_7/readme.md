@@ -1,4 +1,4 @@
-[<<Day 6](../Day_6/) | <b>Day 7</b> | [Day 8>>](../Day_8/)
+[<<Day 6](../Day_6/) | **Day 7** | [Day 8>>](../Day_8/)
 
 # 30 Days of Python Coding
 
@@ -196,4 +196,4 @@ To run this code, simply execute the 'Sets.py' file using Python (e.g., python S
 
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
 
-[<<Day 6](../Day_6/) | <b>Day 7</b> | [Day 8>>](../Day_8/)
+[<<Day 6](../Day_6/) | **Day 7** | [Day 8>>](../Day_8/)

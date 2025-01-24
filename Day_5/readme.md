@@ -1,4 +1,4 @@
-[<<Day 4](../Day_4/) | <b>Day 5</b> | [Day 6>>](../Day_6/)
+[<<Day 4](../Day_4/) | **Day 5** | [Day 6>>](../Day_6/)
 
 # 30 Days of Python Coding
 =====================================
@@ -288,4 +288,4 @@ To run this code, simply execute the 'List.py' file using Python (e.g., python L
 ## Contributions
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
 
-[<<Day 4](../Day_4/) | <b>Day 5</b> | [Day 6>>](../Day_6/)
+[<<Day 4](../Day_4/) | **Day 5** | [Day 6>>](../Day_6/)

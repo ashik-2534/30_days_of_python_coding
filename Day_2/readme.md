@@ -1,4 +1,4 @@
-[<<Day 1](../Day_1/) | <b>Day 2</b> | [Day 3>>](../Day_3/)
+[<<Day 1](../Day_1/) | **Day 2** | [Day 3>>](../Day_3/)
 
 # 30 Days of Python Coding
 ==========================
@@ -90,4 +90,4 @@ To run this code, simply execute the `Helloworld.py` file using Python (e.g., `p
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
 
 
-[<<Day 1](../Day_1/) | <b>Day 2</b> | [Day 3>>](../Day_3/)
+[<<Day 1](../Day_1/) | **Day 2** | [Day 3>>](../Day_3/)

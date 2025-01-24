@@ -1,4 +1,4 @@
-[<<Day 7](../Day_7/) | <b>Day 8</b> | [Day 9>>](../Day_9/)
+[<<Day 7](../Day_7/) | **Day 8** | [Day 9>>](../Day_9/)
 
 # 30 Days of Python Coding
 
@@ -211,4 +211,4 @@ To run this code, simply execute the 'Dictionaries.py' file using Python (e.g., 
 
 Feel free to contribute to this repository by adding more code snippets and examples from your own Python coding journey!
 
-[<<Day 7](../Day_7/) | <b>Day 8</b> | [Day 9>>](../Day_9/)
+[<<Day 7](../Day_7/) | **Day 8** | [Day 9>>](../Day_9/)
